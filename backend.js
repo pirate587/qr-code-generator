@@ -10,4 +10,5 @@ function makeQR(){
     alert("qr code generated sucesfully");
   
 
-}));
+}
+
